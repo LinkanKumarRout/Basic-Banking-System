@@ -24,7 +24,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    color: rgb(16, 106, 190);
+    color: rgb(190, 16, 54);
 }
 
 .main-child div {
@@ -40,8 +40,8 @@ main {
 }
 
 .main-child div:hover {
-    border-color: rgb(244, 247, 82);
-    background-color: rgb(7, 57, 165);
+    border-color: rgb(82, 200, 247);
+    background-color: rgb(165, 57, 7);
     transition: all 0.3s ease-in;
 }
 
@@ -82,7 +82,7 @@ main button {
 /* ! fro Main CSS start from here... */
 
 footer {
-    background-color: rgb(69, 137, 240);
+    background-color: rgb(247, 25, 25);
     color: white;
     text-align: center;
     position: fixed;
